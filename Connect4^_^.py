@@ -1,4 +1,4 @@
-#FCAI,Programming 1 – 2022 - Assignment 2
+#FCAI.CU,Programming 1 – 2022 - Assignment 2
 #Program Name: connect4.pyhton.
 #Program Description: game in python language.
 #Last Modification Date: 23/3/2022
